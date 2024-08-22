@@ -1,0 +1,4 @@
+http://localhost/fyp-bus-booking-php/admin.php
+
+username: admin
+password: admin
